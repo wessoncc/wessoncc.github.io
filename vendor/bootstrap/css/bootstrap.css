@@ -478,7 +478,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 50%;
 }
 
 .img-thumbnail {
@@ -6508,7 +6508,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #20c997 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
